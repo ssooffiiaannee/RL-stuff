@@ -8,7 +8,7 @@ This repository holds some Reinforcement Learning projects.
 - [ ] Rubix Cube
 - [ ] Robotics
 - [ ] Pong-v0
-- [ ] BipedalWalker with DDPG
+- [ ] BipedalWalker with DDPG (<== struggling on this one)
 - [ ] CarRacing with MDN-RNN in Pytorch
 - [ ] Mario with Double DQN
 - [ ] Multiagent systems
